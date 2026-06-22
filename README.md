@@ -19,6 +19,8 @@
 ### 🚀 Professional Summary
 Fullstack AI Developer with experience building scalable backend systems, AI-powered applications, and production-ready APIs using **Python, FastAPI, ReactJS, and TypeScript**. Skilled in REST API development, PostgreSQL, Docker, LangChain workflows, RAG pipelines, and modular backend architecture. Experienced in developing AI-integrated systems with a focus on backend scalability, deployment workflows, structured API design, and production-grade engineering practices.
 
+🌐 **[Visit My Interactive Portfolio](https://akshay-five.vercel.app/)**
+
 🎓 **Education**: B.S. in Data Science and Machine Learning @ **Indian Institute of Technology Madras** (2023 – 2027)
 
 ---
@@ -53,6 +55,10 @@ Fullstack AI Developer with experience building scalable backend systems, AI-pow
 | **[RAG Knowledge Assistant](https://agentic-rag-six.vercel.app/)** | Intelligent document orchestration system integrating LLMs with vector search for deep conversational retrieval and document ingestion. | `LangChain`, `Vector DB`, `Python` |
 | **[Curia-Logica](https://curia-logica.vercel.app/)** | Multi-agent consensus system utilizing multiple AI models (Claude, Gemini) to evaluate and judge complex conversational data. | `FastAPI`, `Python`, `GenAI` |
 | **[TruthLens](http://43.205.242.235:3000/)** | AI-driven application for analyzing testimony and extracting structured truths and deception patterns. | `FastAPI`, `React`, `Python` |
+| **[Interactive Portfolio](https://akshay-five.vercel.app/)** | A highly dynamic, animated, and responsive personal portfolio showcasing projects and skills. | `Next.js`, `React`, `Framer Motion` |
+| **[Ncert-Tutor](https://ncert-tutor.onrender.com/)** | A full-stack EdTech web application focused on interactive learning and automated tutoring. | `React`, `Node.js` |
+| **[PPT_Generator](https://ppt-generator-rho.vercel.app/)** | AI-powered tool to automatically generate complete presentation slides based on user prompts. | `Python`, `GenAI` |
+| **[Conversational AI](https://llm-agent-coral.vercel.app/)** | Interactive conversational AI chatbot capable of integrating with custom datasets. | `Python`, `LLMs` |
 | **Kaggle ML Challenge** | Built predictive ML models using feature engineering and behavioral analytics datasets. (Rank 22 / 1700+) | `Machine Learning`, `Data Science` |
 
 ---
