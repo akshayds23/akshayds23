@@ -9,7 +9,7 @@
   <a href="https://github.com/akshayds23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/akshay-kumar-upadhyay-036545271/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -45,14 +45,15 @@ Fullstack AI Developer with experience building scalable backend systems, AI-pow
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Featured Projects & Live Demos
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **AI Data Analyst Agent** | Fullstack AI-powered analytics platform using LangChain workflows for natural language querying, tool execution, and automated report generation. | `FastAPI`, `React`, `LangChain`, `Python` |
-| **RAG-Based Knowledge Assistant** | Intelligent document orchestration system integrating LLMs with vector search for deep conversational retrieval and document ingestion. | `LangChain`, `Vector DB`, `Python` |
-| **Kaggle ML Challenge - Engage2Value** | Built predictive ML models using feature engineering and behavioral analytics datasets. (Rank 22 / 1700+) | `Machine Learning`, `Data Science` |
+| **[AI Data Analyst Agent](https://llm-agent-six-nu.vercel.app/)** | Fullstack AI-powered analytics platform using LangChain workflows for natural language querying, tool execution, and automated report generation. | `FastAPI`, `React`, `LangChain` |
+| **[RAG Knowledge Assistant](https://agentic-rag-six.vercel.app/)** | Intelligent document orchestration system integrating LLMs with vector search for deep conversational retrieval and document ingestion. | `LangChain`, `Vector DB`, `Python` |
+| **[Curia-Logica](https://curia-logica.vercel.app/)** | Multi-agent consensus system utilizing multiple AI models (Claude, Gemini) to evaluate and judge complex conversational data. | `FastAPI`, `Python`, `GenAI` |
 | **[TruthLens](https://github.com/akshayds23/Truthlens)** | AI-driven application for analyzing testimony and extracting structured truths and deception patterns. | `FastAPI`, `React`, `Python` |
+| **Kaggle ML Challenge** | Built predictive ML models using feature engineering and behavioral analytics datasets. (Rank 22 / 1700+) | `Machine Learning`, `Data Science` |
 
 ---
 
