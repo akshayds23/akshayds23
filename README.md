@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Akshay+👋;AI+%26+Machine+Learning+Engineer;Full-Stack+Web+Developer;Turning+ideas+into+production-ready+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Akshay+K+Upadhyay+👋;Fullstack+AI+Developer;B.S.+Data+Science+%40+IIT+Madras;Building+Scalable+AI+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
+  <a href="mailto:akshay.cse23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/akshayds23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -13,12 +16,21 @@
 
 ---
 
-### 🚀 About Me
-I am a software engineer focused on building highly scalable, intelligent applications. I bridge the gap between complex backend architectures, AI/ML integrations, and sleek, dynamic frontend interfaces. Whether it's orchestrating Large Language Models or designing a responsive Next.js application, I love shipping complete products.
+### 🚀 Professional Summary
+Fullstack AI Developer with experience building scalable backend systems, AI-powered applications, and production-ready APIs using **Python, FastAPI, ReactJS, and TypeScript**. Skilled in REST API development, PostgreSQL, Docker, LangChain workflows, RAG pipelines, and modular backend architecture. Experienced in developing AI-integrated systems with a focus on backend scalability, deployment workflows, structured API design, and production-grade engineering practices.
 
-- 🤖 **Current Focus**: Agentic RAG, AI Consensus Models, and Web Development
-- 💻 **Tech Stack**: Python, TypeScript, React, Next.js, FastAPI, Node.js
-- 🌱 **Learning**: Advanced MLOps & Scalable Cloud Deployments
+🎓 **Education**: B.S. in Data Science and Machine Learning @ **Indian Institute of Technology Madras** (2023 – 2027)
+
+---
+
+### 💼 Experience
+
+**AI/ML Engineer | WHIZROBO** *(Dec 2025 – Present)*
+- Built scalable **FastAPI** and **NestJS** backend services for AI-powered applications and production workflows.
+- Implemented AI-powered workflows using **LangChain**, LLM integrations, prompt engineering, and conversational AI pipelines.
+- Developed PostgreSQL-based backend architectures using **Prisma ORM** and **Alembic** migrations.
+- Integrated **MinIO/S3** object storage with presigned upload and playback URL generation for secure media management.
+- Containerized backend services using **Docker** and managed scalable deployment workflows.
 
 ---
 
@@ -34,10 +46,10 @@ I am a software engineer focused on building highly scalable, intelligent applic
 ### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,vue,fastapi,flask,nodejs" alt="Core Tech" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,postgres,mongodb" alt="Core Tech" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,tailwind,arduino" alt="Tools & DBs" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,tailwind,opencv" alt="Tools & DBs" />
 </p>
 
 ---
@@ -46,11 +58,10 @@ I am a software engineer focused on building highly scalable, intelligent applic
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **AI Data Analyst Agent** | Fullstack AI-powered analytics platform using LangChain workflows for natural language querying, tool execution, and automated report generation. | `FastAPI`, `React`, `LangChain`, `Python` |
+| **RAG-Based Knowledge Assistant** | Intelligent document orchestration system integrating LLMs with vector search for deep conversational retrieval and document ingestion. | `LangChain`, `Vector DB`, `Python` |
+| **Kaggle ML Challenge - Engage2Value** | Built predictive ML models using feature engineering and behavioral analytics datasets. (Rank 22 / 1700+) | `Machine Learning`, `Data Science` |
 | **[TruthLens](https://github.com/akshayds23/Truthlens)** | AI-driven application for analyzing testimony and extracting structured truths and deception patterns. | `FastAPI`, `React`, `Python` |
-| **[Agentic_RAG](https://github.com/akshayds23/Agenic-RAG)** | Intelligent document orchestration system integrating LLMs with vector search for deep conversational retrieval. | `Next.js`, `TypeScript`, `LLMs` |
-| **[Curia-Logica](https://github.com/akshayds23/Curia-logica)** | Multi-agent consensus system utilizing multiple models (Claude, Gemini, etc.) to evaluate and judge complex data. | `FastAPI`, `Python`, `GenAI` |
-| **[Ncert-Tutor](https://github.com/akshayds23/Ncert-Tutor)** | A full-stack EdTech web application focused on interactive learning. | `React`, `Node.js` |
-| **[Household_Services](https://github.com/akshayds23/Household_Services)** | Robust platform connecting users with local service professionals. | `Vue`, `Flask`, `PostgreSQL` |
 
 ---
 
@@ -65,9 +76,4 @@ I am a software engineer focused on building highly scalable, intelligent applic
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayds23&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
-</div>
-
----
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </div>
