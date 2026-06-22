@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshay+👋;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Turning+ideas+into+production-ready+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Akshay+👋;AI+%26+Machine+Learning+Engineer;Full-Stack+Web+Developer;Turning+ideas+into+production-ready+code" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,6 +19,15 @@ I am a software engineer focused on building highly scalable, intelligent applic
 - 🤖 **Current Focus**: Agentic RAG, AI Consensus Models, and Web Development
 - 💻 **Tech Stack**: Python, TypeScript, React, Next.js, FastAPI, Node.js
 - 🌱 **Learning**: Advanced MLOps & Scalable Cloud Deployments
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshayds23&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+  </a>
+</div>
 
 ---
 
