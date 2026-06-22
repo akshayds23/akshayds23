@@ -56,11 +56,20 @@ Fullstack AI Developer with experience building scalable backend systems, AI-pow
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Top Frameworks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayds23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Akshay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayds23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,c,c%2B%2B,cython" alt="Top Languages" width="48%" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=2000&color=7aa2f7&center=true&vCenter=true&width=400&height=195&lines=⚡+Top+Frameworks+%26+Skills;🐍+Python+%26+FastAPI;⚛️+React+%26+Next.js;🟩+Node.js+%26+TypeScript;🗄️+PostgreSQL+%26+MongoDB" alt="Top Skills" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-98%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-80%25-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 <br>
