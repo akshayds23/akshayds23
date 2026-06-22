@@ -52,7 +52,7 @@ Fullstack AI Developer with experience building scalable backend systems, AI-pow
 | **[AI Data Analyst Agent](https://llm-agent-six-nu.vercel.app/)** | Fullstack AI-powered analytics platform using LangChain workflows for natural language querying, tool execution, and automated report generation. | `FastAPI`, `React`, `LangChain` |
 | **[RAG Knowledge Assistant](https://agentic-rag-six.vercel.app/)** | Intelligent document orchestration system integrating LLMs with vector search for deep conversational retrieval and document ingestion. | `LangChain`, `Vector DB`, `Python` |
 | **[Curia-Logica](https://curia-logica.vercel.app/)** | Multi-agent consensus system utilizing multiple AI models (Claude, Gemini) to evaluate and judge complex conversational data. | `FastAPI`, `Python`, `GenAI` |
-| **[TruthLens](https://github.com/akshayds23/Truthlens)** | AI-driven application for analyzing testimony and extracting structured truths and deception patterns. | `FastAPI`, `React`, `Python` |
+| **[TruthLens](http://43.205.242.235:3000/)** | AI-driven application for analyzing testimony and extracting structured truths and deception patterns. | `FastAPI`, `React`, `Python` |
 | **Kaggle ML Challenge** | Built predictive ML models using feature engineering and behavioral analytics datasets. (Rank 22 / 1700+) | `Machine Learning`, `Data Science` |
 
 ---
