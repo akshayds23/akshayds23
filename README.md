@@ -34,15 +34,6 @@ Fullstack AI Developer with experience building scalable backend systems, AI-pow
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshayds23&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ### 💻 Technologies & Tools
 
 <p align="center">
@@ -65,15 +56,15 @@ Fullstack AI Developer with experience building scalable backend systems, AI-pow
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayds23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Akshay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayds23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayds23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,c,c%2B%2B,cython" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayds23&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayds23&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
