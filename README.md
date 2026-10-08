@@ -2,6 +2,8 @@
 
 **AI Engineer** building production LLM applications, RAG pipelines and AI for robotics.
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1600&color=2563EB&vCenter=true&width=560&height=32&lines=LLM+applications+and+RAG+pipelines;AI+for+service+robots+used+by+schools;Building+AutoApplier%2C+TruthLens+and+VisionAI" alt="LLM applications and RAG pipelines · AI for service robots used by schools · Building AutoApplier, TruthLens and VisionAI" />
+
 <p>
   <a href="https://akshay-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-akshay--five.vercel.app-2563eb?style=flat-square" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/akshay-kumar-upadhyay/"><img src="https://img.shields.io/badge/LinkedIn-akshay--kumar--upadhyay-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,7 +28,7 @@
 | **[TruthLens](https://github.com/akshayds23/Truthlens)** · [demo](https://truthlens-zeta-lemon.vercel.app/) | AI fact-checking: breaks claims into sub-claims, researches the web and verifies each against retrieved evidence. | FastAPI, React, RAG, LLMs |
 | **[VisionAI Campus](https://github.com/akshayds23/AI-Person-Identifier)** | Real-time attendance and visitor counting from a live camera: YOLOv11, InsightFace and tracking. | Python, YOLO, OpenCV, PySide6 |
 | **[Curia-Logica](https://github.com/akshayds23/Curia-logica)** · [demo](https://curia-logica.vercel.app/) | Multi-model consensus system that answers questions over uploaded datasets. | FastAPI, LLMs |
-| **[RAG Knowledge Assistant](https://github.com/akshayds23/Agenic-RAG)** · [demo](https://agentic-rag-six.vercel.app/) | Document ingestion, embeddings, vector search and grounded answers. | LangChain, Vector DB |
+| **[RAG Knowledge Assistant](https://github.com/akshayds23/Agentic-RAG)** · [demo](https://agentic-rag-six.vercel.app/) | Document ingestion, embeddings, vector search and grounded answers. | LangChain, Vector DB |
 | **[PPT Generator](https://github.com/akshayds23/PPT_Generator)** · [demo](https://ppt-generator-rho.vercel.app/) | Turns text into structured PowerPoint slides that keep a template's style. | Python, FastAPI, LLMs |
 | **[Purchase-Value Prediction](https://github.com/akshayds23/ML_Engage2Value)** | 150+ tracked experiments lifted the validation score from below the 0.45 baseline to 0.73. | Python, Pandas, NumPy |
 
